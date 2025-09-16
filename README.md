@@ -1,7 +1,8 @@
-![Portada de Disco Musical Minimalista](https://github.com/user-attachments/assets/b1743cc9-6943-4b97-95e6-658dab411d7f)
+![Portada de Disco Musical Minimalista](https://github.com/user-attachments/assets/e756efe3-ae90-42f4-b184-b5f7b2a249b6)
 ![Static Badge](https://img.shields.io/badge/Estado-Completado-Green)  ![Static Badge](https://img.shields.io/badge/JS-yellow)
 
 ## Indice
+
 - Descripción del proyecto.
 - Caracteristicas.
 - Tecnologias Utilizadas.
@@ -27,9 +28,8 @@ Para poder visualizar el proyecto se puede descargar de dos formas:
 - Simplemente descarga el proyecto y abre el archivo llamado "Index.html" con tu navegador preferido.
 
 ### Vistas
-![Captura de pantalla_15-9-2025_23836_127 0 0 1](https://github.com/user-attachments/assets/713424ca-b25b-4069-8758-1c2b76f41971)
-![Captura de pantalla_15-9-2025_23854_127 0 0 1](https://github.com/user-attachments/assets/849d17a2-37e8-45a7-b322-2a79ac813375)
-![Captura de pantalla_15-9-2025_2397_127 0 0 1](https://github.com/user-attachments/assets/574fd644-b90a-4f4e-b37d-eed48165ddeb)
-
+![Captura de pantalla_15-9-2025_23836_127 0 0 1](https://github.com/user-attachments/assets/60732926-fcfd-4b69-8054-440da6a6b2ef)
+![Captura de pantalla_15-9-2025_23854_127 0 0 1](https://github.com/user-attachments/assets/ed1888c1-2bce-4b67-939a-fc194ef817e9)
+![Captura de pantalla_15-9-2025_2397_127 0 0 1](https://github.com/user-attachments/assets/e8e5e398-b2db-463a-af68-636e8cabe351)
 
 ### Desarrollado Por: Andrés Nicolás Luque Castañeda.
